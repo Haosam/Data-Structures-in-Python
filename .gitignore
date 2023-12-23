@@ -1,0 +1,2 @@
+# Ignore .ipynb files since it has a problem with formatting
+*.ipynb
